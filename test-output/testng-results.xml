@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-17T21:01:17 IST" name="Default suite" finished-at="2021-10-17T21:01:27 IST" duration-ms="10229">
+    <groups>
+    </groups>
+    <test started-at="2021-10-17T21:01:17 IST" name="Default test" finished-at="2021-10-17T21:01:27 IST" duration-ms="10229">
+      <class name="tests.RestAssuredDemo">
+        <test-method signature="delete()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:17 IST" name="delete" finished-at="2021-10-17T21:01:22 IST" duration-ms="4594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="get1()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:22 IST" name="get1" finished-at="2021-10-17T21:01:23 IST" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get1 -->
+        <test-method signature="get2()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:23 IST" name="get2" finished-at="2021-10-17T21:01:24 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get2 -->
+        <test-method signature="get3()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:24 IST" name="get3" finished-at="2021-10-17T21:01:25 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get3 -->
+        <test-method signature="patch()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:25 IST" name="patch" finished-at="2021-10-17T21:01:25 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch -->
+        <test-method signature="post1()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:25 IST" name="post1" finished-at="2021-10-17T21:01:26 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post1 -->
+        <test-method signature="post2()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:26 IST" name="post2" finished-at="2021-10-17T21:01:26 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post2 -->
+        <test-method signature="put()[pri:0, instance:tests.RestAssuredDemo@702b8b12]" started-at="2021-10-17T21:01:27 IST" name="put" finished-at="2021-10-17T21:01:27 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+      </class> <!-- tests.RestAssuredDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
